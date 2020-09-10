@@ -4,6 +4,9 @@
 
 #### Git Large Storage 
 
+
+https://docs.github.com/pt/github/managing-large-files/configuring-git-large-file-storage
+<br>
 https://stackoverflow.com/questions/11656761/git-please-tell-me-who-you-are-error
 <br>
 https://docs.github.com/pt/github/managing-large-files/configuring-git-large-file-storage
