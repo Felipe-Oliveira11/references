@@ -19,4 +19,8 @@ https://docs.github.com/pt/github/authenticating-to-github/removing-sensitive-da
 
 
 https://keras.io/api/models/model_saving_apis/
+<br>
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+<br>
+https://towardsdatascience.com/saving-and-loading-keras-model-42195b92f57a
+<br>
