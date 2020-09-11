@@ -15,7 +15,8 @@ https://docs.github.com/pt/github/authenticating-to-github/removing-sensitive-da
 
 <br>
 
-#### Keras 
+#### Keras Serialize 
+
 
 https://keras.io/api/models/model_saving_apis/
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
