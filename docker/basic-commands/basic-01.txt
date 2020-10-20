@@ -1,0 +1,28 @@
+// List all commands 
+docker
+//List of all containers in execution 
+docker ps
+//Lista todos os containers
+docker ps -a
+//Lista todas as imagens
+docker images
+//Baixa imagem do docker hub
+docker pull <imagem>
+//Cria, inicializa e entra no terminal do container
+docker run -it --name <nome_do_container> <imagem>:<versão>
+//Sai do container em execução
+ctrl + p + q
+//Para a execução de um container
+docker stop <id_do_container>
+//Inicializa a execução de um container
+docker start <id_do_container>
+//Entra no container
+docker attach <id_do_container>
+//Exibe as diferenças entre a imagem de origem vs container
+docker diff <id_do_container>
+//Cria uma imagem a partir de um container
+docker commit -a <autor> <id_do_container> <imagem>/<nome>:<versão>
+//Força a remoção de um container
+docker rm -f <id_do_container>
+//Força a remoção de uma imagem
+docker rmi -f <id_da_imagem>
